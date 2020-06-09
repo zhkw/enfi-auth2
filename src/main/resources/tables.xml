@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tables>
+    <table name="person" newName="pbs_view_StaffInformation" isModified="Y">
+        <column name="id" newName="id" />
+        <column name="name" newName="name" />
+        <column name="employee_num" newName="employee_num" />
+        <column name="email" newName="" />
+        <column name="phone" newName="" />
+        <column name="specialty" newName="" />
+    </table>
+
+    <table name="rel_user_person" newName="rel_user_person" isModified="Y">
+        <column name="id" newName="id" />
+        <column name="fk_user_id" newName="fk_user_id" />
+        <column name="fk_person_id" newName="fk_person_id" />
+    </table>
+
+    <table name="project" newName="pbs_view_project" isModified="Y">
+        <column name="id" newName="id" />
+        <column name="proj_name" newName="name" />
+        <column name="proj_num" newName="num" />
+    </table>
+
+    <table name="organization" newName="pbs_view_Organization" isModified="Y">
+        <column name="id" newName="id" />
+        <column name="org_name" newName="name" />
+    </table>
+</tables>

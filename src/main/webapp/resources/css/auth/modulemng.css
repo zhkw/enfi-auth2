@@ -1,0 +1,82 @@
+ body {
+    font-family: "Microsoft YaHei" ! important;
+ }
+ 
+ #add, #edit,#deleteall {
+    display: none;
+}
+#moduletree{
+    font-size:13px !important;
+}
+
+.table thead tr{
+	border: solid 1px #36A9E1 !important;
+}
+    
+.table thead tr {
+    background: #428BCA !important;
+}
+    
+#head{
+    font-size: 15px !important;
+    font-weight: bold !important;
+    background-color:#36A9E1 !important;
+    font-style: bold;
+}
+    
+a:hover{
+    text-decoration:none;
+}
+    
+.row .ttable {
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:5px;  
+}
+
+tbody tr td {
+	height:30px;
+	line-height:30px;
+}
+
+.ui-widget-header{
+	border:1px solid white;
+	background-color:white;
+}
+
+.ui-dialog {
+	background:white;
+}
+
+.ui-dialog-buttonset button{
+	width:50px;
+	height:30px;
+	background-color:#36A9E1;
+	border-radius:3px;
+	border:none;
+	color:white;
+}
+
+#moduletree #head tr th{
+	height:35px;
+	line-height:35px;
+	padding-top: 6px; 
+	padding-bottom: 6px;
+    border: 1px solid #D9EDF7;
+    font-size:14px;
+    color:black;
+    background-color:#D9EDF7;
+}
+
+#moduletree tbody {
+	border:1px solid #D9EDF7;
+}
+
+#moduletree tbody tr td {
+	height:35px;
+	line-height:35px;
+}
+
+#add {
+	font-family: "Microsoft YaHei" ! important;
+}

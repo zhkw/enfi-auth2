@@ -1,0 +1,56 @@
+.user-edit input{
+	width:100%;
+	min-height:30px;
+}
+.user-gender-select select{
+	width:100%;
+}
+#user_data tr td i{
+	margin-left:10px;
+}
+.user-mng-content .user-list{
+	width: 70%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.user-mng-content .panel ,.user-mng-content  .panel-info{
+	width:100%;
+}
+.user-mng-content .project-list{
+	width: 28%;
+	float: right;
+	margin-top: 10px;
+}
+.user-mng-content .user-list .buttons{
+	margin:0px 0px 10px 0px;
+}
+.user-mng-content .user-list .panel-body{
+	padding: 0px;
+}
+.user-mng-content .user-list .table {
+    margin-bottom: 10px;
+}
+.user-mng-content .user-list .pagination {
+    margin:0;
+    font-size: 12px;
+    display:block;
+}
+.user-list .panel{
+	min-height:465px;
+}
+.input-append input{
+    border-radius: 4px 0px 0px 4px!important;
+}
+.project-list .panel{
+	min-height: 465px;
+}
+.user-selected{
+	background-color: #FFF9E4;
+}
+.project-list .panel-info{
+	float:left;
+}
+.input-append{
+	margin-bottom: 14px!important;
+}

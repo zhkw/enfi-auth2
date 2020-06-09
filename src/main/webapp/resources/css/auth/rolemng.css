@@ -1,0 +1,73 @@
+#cpm-member-tabContent{
+	width: 100%;
+	float: left;
+}
+#cpm-member-tabContent .panel-body{
+	padding:0px;
+}
+.role-content {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.system-member-list .buttons,.project-member-list .buttons{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	height:32px;
+}
+.system-member-list,.project-member-list{
+	margin-left: 10px;
+	width: 60%;
+	float:left;
+}
+.system-role-list .system-role-panel,.system-member-list .system-member-panel,.project-role-list .project-role-panel,.project-member-list .project-member-panel{
+	min-height: 465px;
+}
+.system-role-list,.project-role-list{
+	width: 38%;
+	float:right;
+	margin-top: 52px;
+	min-height: 465px;
+}
+.system-role-list .btn,.project-role-list .btn {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.system-member-panel .panel-body,.project-member-panel .panel-body{
+	padding:0px;
+}
+.system-member-panel  .fixed-table-container{
+	border:0px;
+}
+#cpm-member-tabContent .pagination{
+	margin-top: 0px;
+	float: right;
+}
+.project-member-list .buttons #projectChosen{
+	width:30%;
+	float:left;
+}
+.project-member-list .buttons .addprojectuser{
+   margin-left:15px;
+}
+#selectProject_chzn,#selectProject_chzn .chzn-drop,#selectProject_chzn .chzn-drop .chzn-search ,#selectProject_chzn .chzn-drop .chzn-search input{
+	width:100%!important;
+}
+#selectProject_chzn a,#selectProject_chzn a span{
+	height:32px;
+}
+#selectProject_chzn a div b{
+	margin-top:3px;
+}
+.user-selected{
+	background-color: #FFF9E4;
+}
+#selectUser_chzn,.chzn-drop,.chzn-drop .chzn-search,.chzn-drop .chzn-search input,.chzn-drop .chzn-results{
+	width:100%!important;
+}
+#cpm-role-tab{
+	height:34px!important;
+}
+#selectUser_chzn .tooltip{
+	top:49px!important;
+}

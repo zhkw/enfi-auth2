@@ -1,0 +1,103 @@
+.role-mng-content{
+	margin-top: 10px;
+}
+.role-mng-content .role-list{
+	margin-left: 10px;
+	width:70%;
+	float: left;
+}
+.role-mng-content .role-list .role-panel{
+	min-height:465px;	
+}
+.services-tree{
+	margin-top: 42px;
+	width:28%;
+	float: right;
+}
+.role-mng-content .services-panel{
+	min-height:465px;	
+}
+.role-panel .panel-body{
+	padding: 0px;
+}
+.role-list .buttons{
+	margin-bottom: 10px;
+}
+.input-append input{
+    border-radius: 4px 0px 0px 4px!important;
+}
+.role-panel .icon-trash{
+	margin-left:10px;
+}
+#rolelist-pagination{
+	margin-top: 0px;
+	float:right;
+}
+.role-edit input{
+	min-height:30px!important;
+}
+.services-tree .btn{
+	padding-top: 4px;
+	padding-bottom: 4px;	
+}
+#cpm-role-tabContent{
+	width:100%;
+	float:left;
+	min-height:591px;	
+	border-radius: 0 3px 3px 3px;
+}
+.role-content{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.role-selected{
+	background-color:#FFF9E4;
+}
+#cpm-role-tab{
+	height:34px!important;
+}
+
+
+.p-role-list{
+	margin-left: 10px;
+	width:70%;
+	float: left;
+}
+.p-role-mng-content .p-services-panel{
+	min-height:465px;	
+}
+.p-role-mng-content .p-role-list .p-role-panel{
+	min-height:465px;	
+}
+.p-role-mng-content{
+	margin-top: 10px;
+}
+.p-services-tree{
+	margin-top: 42px;
+	width:28%;
+	float: right;
+}
+.p-role-list .buttons {
+    margin-bottom: 10px;
+}
+.p-role-panel .panel-body{
+	padding: 0px;
+}
+.p-services-tree .btn {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.p-role-edit input {
+    min-height: 30px!important;
+}
+.p-role-panel .icon-trash {
+    margin-left: 10px;
+}
+#p-rolelist-pagination{
+	float:right;
+	margin-top: 0px;
+}
+.p-role-selected{
+	background-color:#FFF9E4;
+}
